@@ -1,0 +1,75 @@
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ==========================================
+# Python Cache & Bytecode
+# ==========================================
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# ==========================================
+# Virtual Environments
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+bin/
+include/
+lib/
+
+# ==========================================
+# IDE & Code Editors
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ==========================================
+# Operating System Files
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Logs & Environment Variables
+# ==========================================
+*.log
+.env
+.env.local
+
+# ==========================================
+# Data Science & Temporary Outputs
+# ==========================================
+scratch/
+.system_generated/
+*.tmp
+
+# ==========================================
+# ML Model Exports & Reports
+# ==========================================
+*.joblib
+*.pt
+*.pth
+*.onnx
+reports/
+outputs/
+*.html
